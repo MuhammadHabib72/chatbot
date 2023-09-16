@@ -1,3 +1,4 @@
 this is a first code
 hi my name is habib and is my second code
 so here i am about to learn Ai and chat bot 
+coding is on vscode
